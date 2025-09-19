@@ -16,9 +16,6 @@
     "url": "git+https://github.com/aquila-lab/pixijs-layout.git"
   },
   "license": "MIT",
-  "author": {
-    "name": "Wonder Team + PixiJS Team"
-  },
   "type": "module",
   "exports": {
     ".": {
